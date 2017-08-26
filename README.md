@@ -1,6 +1,6 @@
 # Cinderloader
 
-#### obj loader
+#### Small software to preview OBJ-files with materials. 
 
 #### Supported platforms:
 * MacOS
