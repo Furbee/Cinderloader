@@ -1,6 +1,6 @@
 # Cinderloader
 
-#### Small software to preview OBJ-files with materials. 
+#### Small software to preview OBJ-files with a standard material. 
 
 #### Supported platforms:
 * MacOS
@@ -9,8 +9,5 @@
 
 #### Depends on:
 * [Cinder](https://github.com/cinder/Cinder) as the cross-platform creative coding framework.
-
-
-Example:
 
 ![image](Cinderella/image.png "Example")
