@@ -1,4 +1,4 @@
-# Cinderloader
+# TinyOBJ
 
 #### Small software to preview OBJ-files with a standard material. 
 
